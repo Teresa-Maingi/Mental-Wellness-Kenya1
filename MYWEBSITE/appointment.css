@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+
+a{
+    text-decoration: wavy;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: o.4s ease-in-out;
+    position: absolute;
+}
+img{
+    padding-top: 5%;
+}
